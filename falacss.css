@@ -7,3 +7,9 @@ h1{
 p{
     color: white;
 }
+div #one {
+    float: right;
+}
+div #zero {
+    float: left;
+}
